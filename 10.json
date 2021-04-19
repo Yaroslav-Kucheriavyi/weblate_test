@@ -1,6 +1,7 @@
 {
   "caption": "Users",
   "description": "Users",
+  "pwd": "Passwords",
   "attributes": [
     {
       "name": "name",
