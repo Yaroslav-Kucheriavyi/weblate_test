@@ -40,5 +40,7 @@
             "caption": "Last password change date",
             "description": "Last password change date"
         }
-    ]
+    ],
+    "caption": "Пользователи",
+    "description": "Пользователи"
 }
